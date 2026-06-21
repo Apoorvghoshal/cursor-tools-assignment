@@ -1,10 +1,6 @@
-# YouTube Transcript: ZfusBLj4XPk
+# YouTube Transcript: Brendan Hufford
 
 Source: https://www.youtube.com/watch?v=ZfusBLj4XPk
-
-## Summary
-
-Brendan Hufford argues that SEO has not fundamentally changed because of AI: marketers should prioritize customer insight, useful content, and business outcomes over rankings or hype. He recommends interviewing customers, running provocative surveys, treating SEO as distribution, and continuously sharing sales and support conversations with marketing to reveal timely opportunities.
 
 ## Transcript
 

@@ -1,10 +1,6 @@
-# YouTube Transcript: _nxOiJVD-P0
+# YouTube Transcript: Emily Kramer
 
 Source: https://www.youtube.com/watch?v=_nxOiJVD-P0
-
-## Summary
-
-Emily Kramer explains how she grew MKT1 by publishing distinctive, useful work rather than performing random marketing activities. She uses AI iteratively for research, editing, subject lines, and reusable skills while preserving human judgment. Newsletter growth comes from consistency, tactical relevance, partnerships, credible collaborators, distribution, and investment in content quality.
 
 ## Transcript
 

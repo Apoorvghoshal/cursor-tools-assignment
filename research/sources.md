@@ -12,8 +12,9 @@ Curated experts in B2B SaaS marketing, newsletters, email strategy, and product-
 | 6 | Katelyn Bourgoin | Email copywriting & buyer psychology |
 | 7 | Jimmy Daly | Newsletter distribution & community content |
 | 8 | Tyler Denk | Newsletter infrastructure & audience growth |
-| 9 | Stijn Hendrikse | GTM frameworks & email nurture tracks |
-| 10 | Kalo Yankulov | Marketing automation & retention |
+| 9 | Chris Frantz | SaaS email infrastructure & onboarding |
+| 10 | Val Geisler | SaaS onboarding & lifecycle emails |
+| 11 | Chenell Basilio | Newsletter growth & reverse engineering |
 
 ---
 
@@ -61,7 +62,7 @@ Curated experts in B2B SaaS marketing, newsletters, email strategy, and product-
 - [LinkedIn](https://www.linkedin.com/in/janeportman/)
 - [YouTube — Jane Portman's Channel (UI/UX & SaaS Product Strategy)](https://www.youtube.com/@portmanstudio)
 
-**Notes:** Jane runs an email automation platform specifically built for SaaS companies. She shares deep expertise on B2B SaaS lifecycle emails, user onboarding sequences, and behavioral messaging triggers.
+**Notes:** Jane runs an email automation platform specifically built for SaaS companies. She shares deep expertise strictly on B2B SaaS lifecycle emails, user onboarding sequences, and behavioral messaging triggers.
 
 ---
 
@@ -113,24 +114,36 @@ Curated experts in B2B SaaS marketing, newsletters, email strategy, and product-
 
 ---
 
-## 9. Stijn Hendrikse
+## 9. Chris Frantz
 
-**Role:** Founder of Kalungi & Author of T2D3
+**Role:** Co-founder & CEO of Loops
 
 **Links**
-- [LinkedIn](https://www.linkedin.com/in/stijnhendrikse/)
-- [YouTube — The 3 Pillars of Qualified Pipeline Generation in B2B SaaS](https://www.youtube.com/watch?v=EyrbIaIQHMc)
+- [LinkedIn](https://www.linkedin.com/in/ctfrantz/)
+- [YouTube — How Loops Fixes Email for Developers](https://www.youtube.com/watch?v=w27JDOb5dDQ)
 
-**Notes:** Stijn is an authority on Go-To-Market (GTM) frameworks for early-stage B2B SaaS. His insights focus heavily on building multi-stage email nurture tracks that align with product milestones to drive revenue.
+**Notes:** Chris built a modern email platform specifically designed for software companies. He regularly shares behind-the-scenes insights on SaaS onboarding mechanics and the specific architecture needed to send high-converting product emails.
 
 ---
 
-## 10. Kalo Yankulov
+## 10. Val Geisler
 
-**Role:** Co-founder of Encharge
+**Role:** Email Conversion Strategist & SaaS Onboarding Expert
 
 **Links**
-- [LinkedIn](https://www.linkedin.com/in/kaloyankulov/)
-- [YouTube — The Secret To Encharge's SaaS Launch Success](https://www.youtube.com/watch?v=MpL4FNnWS9E)
+- [LinkedIn](https://www.linkedin.com/in/valgeisler/)
+- [YouTube — eCommerce MasterPlan Channel (Guest Speaker)](https://www.youtube.com/@Ecommercemasterplan)
 
-**Notes:** Kalo is an expert on marketing automation and customer retention. He specializes in creating sync pipelines between SaaS application usage data and automated email sequences.
+**Notes:** Val specializes directly in lifecycle and user onboarding emails for SaaS. She breaks down exactly why generic onboarding emails fail and provides deep teardowns on how to build educative flows that drive long-term user/product fit.
+
+---
+
+## 11. Chenell Basilio
+
+**Role:** Founder of Growth In Reverse
+
+**Links**
+- [LinkedIn](https://www.linkedin.com/in/chenellco/)
+- [YouTube — How to Create A Newsletter that People Pay Attention To](https://www.youtube.com/watch?v=OzVflbjDlmA)
+
+**Notes:** Chenell runs a massive newsletter that reverse-engineers how top creators and SaaS operators scale their email lists from zero to 50K+ subscribers. She provides highly tactical growth levers, referral loops, and acquisition strategies for newsletter operators.

@@ -1,10 +1,6 @@
-# YouTube Transcript: f0jeD24nmFw
+# YouTube Transcript: Tyler Denk
 
 Source: https://www.youtube.com/watch?v=f0jeD24nmFw
-
-## Summary
-
-Tyler Denk explains why newsletters remain valuable: email gives creators owned distribution without dependence on social algorithms. He describes Beehiiv’s platform, pricing, website tools, advertising network, subscriptions, audience growth, and creator economics. He also distinguishes audiences from communities and emphasizes high-agency hiring, rapid execution, experimentation, accountability, and learning from failure.
 
 ## Transcript
 

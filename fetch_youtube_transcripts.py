@@ -16,9 +16,29 @@ URL_PATTERN = re.compile(r"https?://(?:www\.)?(?:youtube\.com|youtu\.be)/[^\s)>]
 VIDEO_ID_PATTERN = re.compile(r"^[A-Za-z0-9_-]{11}$")
 
 
-def youtube_urls(markdown: str) -> list[str]:
-    """Return unique YouTube URLs from Markdown, preserving their order."""
-    return list(dict.fromkeys(URL_PATTERN.findall(markdown)))
+def expert_youtube_urls(markdown: str) -> list[tuple[str, str]]:
+    """Extract expert names and their first corresponding YouTube URL from Markdown."""
+    mapping = []
+    
+    # Split the markdown document by the expert headers (e.g., "## 1. Brendan Hufford")
+    blocks = markdown.split("## ")
+    
+    for block in blocks[1:]:  # Skip the introductory table block
+        lines = block.strip().split("\n")
+        if not lines:
+            continue
+            
+        # Extract the name from the header line, removing the "1. " prefix
+        raw_name = re.sub(r"^\d+\.\s*", "", lines[0]).strip()
+        # Create a clean, slugified filename (e.g., "Brendan Hufford" -> "brendan-hufford")
+        safe_name = re.sub(r"[^a-z0-9]+", "-", raw_name.lower()).strip("-")
+        
+        # Find all YouTube URLs under this expert's section
+        urls = list(dict.fromkeys(URL_PATTERN.findall(block)))
+        if urls:
+            mapping.append((safe_name, urls[0]))
+            
+    return mapping
 
 
 def video_id_from_url(url: str) -> str | None:
@@ -50,14 +70,14 @@ def main() -> None:
     if not SOURCES_FILE.exists():
         raise SystemExit(f"Sources file not found: {SOURCES_FILE}")
 
-    urls = youtube_urls(SOURCES_FILE.read_text(encoding="utf-8"))
+    expert_urls = expert_youtube_urls(SOURCES_FILE.read_text(encoding="utf-8"))
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    if not urls:
+    if not expert_urls:
         raise SystemExit(f"No YouTube URLs found in {SOURCES_FILE}")
 
     saved = 0
-    for url in urls:
+    for expert_name, url in expert_urls:
         video_id = video_id_from_url(url)
         if video_id is None:
             print(f"Skipping non-video URL: {url}")
@@ -65,9 +85,14 @@ def main() -> None:
 
         try:
             text = transcript_text(video_id)
-            output_file = OUTPUT_DIR / f"{video_id}.md"
+            # Use the expert's name for the output file
+            output_file = OUTPUT_DIR / f"{expert_name}.md"
+            
+            # Format the title back to normal text for the internal heading
+            display_name = expert_name.replace('-', ' ').title()
+            
             output_file.write_text(
-                f"# YouTube Transcript: {video_id}\n\n"
+                f"# YouTube Transcript: {display_name}\n\n"
                 f"Source: {url}\n\n"
                 f"## Transcript\n\n{text}\n",
                 encoding="utf-8",

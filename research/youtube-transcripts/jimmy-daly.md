@@ -1,10 +1,6 @@
-# YouTube Transcript: 6WgqdNM0Sr0
+# YouTube Transcript: Jimmy Daly
 
 Source: https://www.youtube.com/watch?v=6WgqdNM0Sr0
-
-## Summary
-
-Jimmy Daly explains community-led content through Superpath’s network of content marketers. Peer conversations generate feedback, career stories, salary features, and repeatable user-generated formats that newsletters can distribute effectively. Strong communities require clear purpose, careful moderation, and spaces for different experience levels. Customer conversations also create a productive content-and-sales feedback loop.
 
 ## Transcript
 
