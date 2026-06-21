@@ -2,6 +2,10 @@
 
 Source: https://www.youtube.com/watch?v=MpL4FNnWS9E
 
+## Summary
+
+Kalo Yankulov reviews Encharge’s AppSumo launch, explaining when lifetime deals can fund growth and when they damage positioning. He stresses timing, plan limits, upgrade paths, support readiness, disciplined feature promises, and negotiation. He also discusses affordable content operations, organic growth, acquisition negotiations, and converting launch momentum into recurring subscription revenue.
+
 ## Transcript
 
 Kayla Yankelov, welcome to the show.

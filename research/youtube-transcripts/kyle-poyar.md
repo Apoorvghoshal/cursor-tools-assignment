@@ -2,6 +2,10 @@
 
 Source: https://www.youtube.com/watch?v=HQIoispoZzw
 
+## Summary
+
+Kyle Poyar and Scott Woody discuss how AI agents are changing software discovery, purchasing, pricing, and monetization. Companies must make pricing and value legible to machines, avoid relying on commoditized token pass-through margins, and consider outcome-based models. Headless products and autonomous buyers may favor complex, optimized vendor and cost structures.
+
 ## Transcript
 
 Hello everyone. Thank you so much for

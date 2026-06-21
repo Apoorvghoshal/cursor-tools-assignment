@@ -2,6 +2,10 @@
 
 Source: https://www.youtube.com/watch?v=EX9BNa0bGbA
 
+## Summary
+
+Corey Haines demonstrates how AI agents and reusable skills can turn marketers from production bottlenecks into creative directors. Examples include automated keyword research, programmatic SEO pages, cross-analysis of analytics sources, RevOps audits, and browser-based video editing. The advantage comes from codifying expertise, connecting data, evaluating outputs, and directing implementation work.
+
 ## Transcript
 
 If Don Draper had access to AI today,

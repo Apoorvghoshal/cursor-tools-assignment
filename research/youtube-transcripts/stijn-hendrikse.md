@@ -2,6 +2,10 @@
 
 Source: https://www.youtube.com/watch?v=EyrbIaIQHMc
 
+## Summary
+
+Stijn Hendrikse presents three foundations for qualified B2B SaaS pipeline: precise ideal-customer definition, differentiated positioning, and an integrated marketing-sales engine. He recommends mapping jobs and urgent pains, creating “wow, how, now” content, mining sales calls for insights, refining messages through feedback, and choosing channels only when reciprocal value supports them.
+
 ## Transcript
 
 Great. Let's uh let's get going here. Um

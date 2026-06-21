@@ -2,6 +2,10 @@
 
 Source: https://www.youtube.com/watch?v=DkChb6_PXx4
 
+## Summary
+
+Katelyn Bourgoin describes turning customer research into the Why We Buy newsletter and a product business. Personalized welcome sequences, audience segmentation, preorders, buyer-language messaging, testimonials, and creator recommendations produced rapid sales and list growth. Her approach validates demand before building and uses audience interaction to strengthen positioning, onboarding, and launches.
+
 ## Transcript
 
 - When I switched, we were
